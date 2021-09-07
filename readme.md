@@ -10,7 +10,8 @@
 * [Gush](https://replit.com/@aMoniker/Gush) by [aMoniker](https://replit.com/@aMoniker/) - Dungeon brawler where can you burp 
 * [Satoshi Run](https://replit.com/@theNvN/Satoshi-Run) by [theNvN](https://replit.com/@theNvN) - Help Satoshi, acumulate "sats" and use super powers
 
-## Games on [Itch.io](https://itch.io/)
+## Games on [Itch.io](https://itch.io/games/tag-kaboomjs)
 
+* [Triple Threat](https://swilliamsio.itch.io/triple-threat) by [swilliamsio] - Triple Space Ship, very hard!! 
 * [Eggou](https://freshjuices.itch.io/eggou) by Fresh Juices Team - Bullet hell with chikens
 * [Purple Egg 100](https://lajbel.itch.io/purple-egg) by Me - Find the purple egg 
