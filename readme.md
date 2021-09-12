@@ -9,6 +9,7 @@
 * [Super Pong](https://replit.com/@SixBeeps/Super-Pong) by [SixBeeps](https://replit.com/@SixBeeps/) - Is Pong, but hard, competitive and fun!
 * [Gush](https://replit.com/@aMoniker/Gush) by [aMoniker](https://replit.com/@aMoniker/) - Dungeon brawler where can you burp 
 * [Satoshi Run](https://replit.com/@theNvN/Satoshi-Run) by [theNvN](https://replit.com/@theNvN) - Help Satoshi, acumulate "sats" and use super powers
+* [ReplJewedled](https://replit.com/@ConnorBrewster/ReplJeweled) by [ConnorBrewster](https://replit.com/@ConnorBrewster/) - Candy Crush like game with replitverse
 
 ## Games on [Itch.io](https://itch.io/games/tag-kaboomjs)
 
