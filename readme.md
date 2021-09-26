@@ -16,3 +16,4 @@
 * [Triple Threat](https://swilliamsio.itch.io/triple-threat) by [swilliamsio] - Triple Space Ship, very hard!! 
 * [Eggou](https://freshjuices.itch.io/eggou) by Fresh Juices Team - Bullet hell with chikens
 * [Purple Egg 100](https://lajbel.itch.io/purple-egg) by Me - Find the purple egg 
+* [Dodog](https://achtaitaipai.itch.io/dodog) vt achtaitaipai - Train your dog, its cute!!!
