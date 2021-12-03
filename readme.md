@@ -19,6 +19,11 @@
 ## Games on [Newgrounds](https://www.newgrounds.com/search/conduct/games?tags=kaboomjs)
 
 * [Eggou](https://www.newgrounds.com/portal/view/806710) by Fresh Juices Team - Bullet hell with chikens
+* [Spongebob Goku idk](https://www.newgrounds.com/portal/view/824227) by [Nicolas22](https://www.newgrounds.com/portal/view/824227)
 * [Purple Egg 100](https://www.newgrounds.com/portal/view/805532) by [LaJBel](https://lajbel.newgrounds.com) - Find the purple egg 
 * [V](https://www.newgrounds.com/portal/view/809854) by [LaJBel](https://lajbel.newgrounds.com) - V
 * [Don't Break the Country](https://www.newgrounds.com/portal/view/811381) by [LaJBel](https://lajbel.newgrounds.com) - Dont destroy the country, text-based with funny moments
+
+## Random Games 
+
+* [Green light, red light](https://redlightgreenlight.dainfloop.repl.co/) by [DaInfLoop](https://twitter.com/DaInfLoop)
