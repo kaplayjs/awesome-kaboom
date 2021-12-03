@@ -2,7 +2,7 @@
 
 [**Kaboom**](kaboomjs.com) is a JavaScript game programming library that helps you make games fast and fun. Here you will see a collection of great games made in kaboom!
 
-![](https://kaboom2000.slmjkdbtl.repl.co/site/img/kaboom.png)
+![](https://kaboomjs.com/site/img/kaboom.png)
 
 ## Games on [Replit](https://replit.com/apps/kaboom)
 
@@ -26,4 +26,4 @@
 
 ## Random Games 
 
-* [Green light, red light](https://redlightgreenlight.dainfloop.repl.co/) by [DaInfLoop](https://twitter.com/DaInfLoop)
+* [Red Light, Green Light](https://redlightgreenlight.dainfloop.repl.co/) by [DaInfLoop](https://replit.com/@dainfloop)
