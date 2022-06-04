@@ -15,6 +15,8 @@
 
 * [Triple Threat](https://swilliamsio.itch.io/triple-threat) by [swilliamsio](https://swilliamsio.itch.io/) - Triple Space Ship, very hard!! 
 * [Dodog](https://achtaitaipai.itch.io/dodog) by [achtaitaipai](https://achtaitaipai.itch.io/) - Train your dog, its cute!!!
+* [JellyBean's Mid-Sim](https://meowcatheorange.itch.io/mid-simulator) - Probably the best rhythm game made in Kaboom
+* [Markanoid](https://meowcatheorange.itch.io/markanoid) - An arkanoid clone made for MarkJam
 
 ## Games on [Newgrounds](https://www.newgrounds.com/search/conduct/games?tags=kaboomjs)
 
@@ -27,3 +29,4 @@
 ## Random Games 
 
 * [Red Light, Green Light](https://redlightgreenlight.dainfloop.repl.co/) by [DaInfLoop](https://replit.com/@dainfloop)
+* [Mark Esolang](https://meowcatheorange.itch.io/mark) - Don't ask
