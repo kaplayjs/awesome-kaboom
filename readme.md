@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://kaboomjs.com/site/img/kaboom.png" alt="Kaboom">
+  <img width="300" src="https://github.com/replit/kaboom/raw/master/kaboom.png" alt="Kaboom">
 </p>
 
 <h1 align="center">Awesome Kaboom</h1>
@@ -24,6 +24,7 @@
 - [Dodog](https://achtaitaipai.itch.io/dodog) - Train your dog, its cute!!!
 - [JellyBean's Mid-Sim](https://meowcatheorange.itch.io/mid-simulator) - Probably the best rhythm game made in Kaboom
 - [Markanoid](https://meowcatheorange.itch.io/markanoid) - An arkanoid clone made
+- [Spicy Twoer](https://stmn.itch.io/spicy-tower) - Lava is dangerous and you have to jump
 
 ## Tools ⚒️
 
@@ -31,7 +32,7 @@
 
 ## Plugins 🧩
 
-- [KaNovel](https://lajbel.itch.io/kanovel) - Plugin to make visual novels
+- [kaboom-extra](https://github.com/marklovers/kaboom-extra) - Collection of essential plugins
 - [tiled-kaboom](https://github.com/notnullgames/tiled-kaboom) - Use Kaboom with tiled
 
 ## Misc 🐸
