@@ -16,6 +16,16 @@
   <br />
 </p>
 
+## Tools ⚒️
+
+- [ASCII Map editor 🗺️](https://stmn.itch.io/ascii-map-editor) - Great tool to do maps
+- [Kaboomer 📦](https://www.npmjs.com/package/kaboomer) - A basic CLI tool to generate KaboomJS projects
+
+## Plugins 🧩
+
+- [kaboom-flex-ui 🪟](https://www.npmjs.com/package/kaboom-flex-ui) - A modern UI library for kaboom.js
+- [tiled-kaboom 🗺️](https://github.com/notnullgames/tiled-kaboom) - Use Kaboom with tiled
+
 ## Games 🕹️
 
 - [Super Pong](https://replit.com/@SixBeeps/Super-Pong) - Is Pong, but hard, competitive and fun!
@@ -26,15 +36,6 @@
 - [Markanoid](https://meowcatheorange.itch.io/markanoid) - An arkanoid clone made
 - [Spicy Twoer](https://stmn.itch.io/spicy-tower) - Lava is dangerous and you have to jump
 
-## Tools ⚒️
+## Misc ❓
 
-- [ASCII Map editor](https://stmn.itch.io/ascii-map-editor) - Great tool to do maps
-
-## Plugins 🧩
-
-- [kaboom-flex-ui](https://www.npmjs.com/package/kaboom-flex-ui) - A modern UI library for kaboom.js
-- [tiled-kaboom](https://github.com/notnullgames/tiled-kaboom) - Use Kaboom with tiled
-
-## Misc 🐸
-
-- [Mark Esolang](https://meowcatheorange.itch.io/mark) - Programming Language? Don't ask
+- [Mark Esolang 😀](https://meowcatheorange.itch.io/mark) - A programming language with... Mark?
