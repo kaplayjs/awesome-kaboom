@@ -32,7 +32,7 @@
 
 ## Plugins 🧩
 
-- [kaboom-extra](https://github.com/marklovers/kaboom-extra) - Collection of essential plugins
+- [kaboom-flex-ui](https://www.npmjs.com/package/kaboom-flex-ui) - A modern UI library for kaboom.js
 - [tiled-kaboom](https://github.com/notnullgames/tiled-kaboom) - Use Kaboom with tiled
 
 ## Misc 🐸
