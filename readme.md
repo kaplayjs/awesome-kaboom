@@ -23,7 +23,8 @@
 
 ## Plugins 🧩
 
-- [kaboom-flex-ui 🪟](https://www.npmjs.com/package/kaboom-flex-ui) - A modern UI library for kaboom.js
+- [kiboom 📦](https://kiboom.lajbel.com) - Object Makers (prefabs) easy for Kaboom.js
+- [kaboom-flex-ui 🪟](https://www.npmjs.com/package/kaboom-flex-ui) - A modern UI library for Kaboom.js
 - [tiled-kaboom 🗺️](https://github.com/notnullgames/tiled-kaboom) - Use Kaboom with tiled
 
 ## Games 🕹️
