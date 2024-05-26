@@ -35,7 +35,7 @@
 - [Dodog](https://achtaitaipai.itch.io/dodog) - Train your dog, its cute!!!
 - [JellyBean's Mid-Sim](https://meowcatheorange.itch.io/mid-simulator) - Probably the best rhythm game made in Kaboom
 - [Markanoid](https://meowcatheorange.itch.io/markanoid) - An arkanoid clone made
-- [Spicy Twoer](https://stmn.itch.io/spicy-tower) - Lava is dangerous and you have to jump
+- [Spicy Tower](https://stmn.itch.io/spicy-tower) - Lava is dangerous and you have to jump
 
 ## Misc ❓
 
